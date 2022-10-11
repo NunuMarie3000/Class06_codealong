@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/bin/Debug/net6.0/Abstraction
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/bin/Debug/net6.0/Abstraction.deps.json
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/bin/Debug/net6.0/Abstraction.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/bin/Debug/net6.0/Abstraction.dll
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/bin/Debug/net6.0/Abstraction.pdb
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.dll
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/refint/Abstraction.dll
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.pdb
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/Abstraction.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Class06_codealong/Abstraction/obj/Debug/net6.0/ref/Abstraction.dll
